@@ -32,7 +32,7 @@ This is a comprehensive machine learning project that includes data processing, 
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/nageshwarpatel7/mlprojects.git
 ```
 
 2. Create and activate a virtual environment
